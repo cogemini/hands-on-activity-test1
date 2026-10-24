@@ -1,0 +1,4 @@
+# Copy to .dev.vars; local-only development, not production authentication.
+APP_ENV=development
+# Explicitly change to true to enable Local Demo Review on localhost.
+ENABLE_DEV_REVIEW=false
